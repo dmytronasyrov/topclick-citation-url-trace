@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dmytronasyrov.github.io/topclick-citation-url-trace/sitemap.xml
